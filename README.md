@@ -1,6 +1,7 @@
 # 📊 Dashboard de Análise de Comportamento do Cliente
 
-![Capa do Projeto](images/visao-geral.png) ## 📝 Descrição
+## 📝 Descrição
+
 Este projeto consiste em um dashboard interativo desenvolvido no *Power BI* para analisar padrões de consumo e comportamento de clientes. O objetivo principal gerar insights estratégicos que auxiliem na segmentação de público, otimização de campanhas de marketing baseado nos padrões de comportamento dos usuarios.
 
 ## 🎯 Objetivos de Negócio
